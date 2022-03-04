@@ -43,20 +43,25 @@ header {
     margin-top: 20px;
     margin-bottom:20px;
 }
-
-.content-row {
-    border:solid black;
-    display:flex;
+.flex-container {
+    display: flex;
     justify-content: center;
-    gap:25px;
+    gap: 30px;
+    margin-bottom: 50px;
+    text-align: center;
 }
 
-.item {
-    border: solid black;
+.container {
     height:100px;
     width:100px;
-    border-radius: 5px;
 }
+.box {
+    border: solid rgb(126, 101, 151);
+    height:100px;
+    width:100px;
+    border-radius: 10px;
+}
+
 .content1 {
     display:flex;
 }
