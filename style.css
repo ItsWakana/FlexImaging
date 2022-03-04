@@ -35,6 +35,28 @@ header {
     margin-bottom:5px;
 }
 
+.heading2 {
+    font-size: 25px;
+    font-weight:bold;
+    margin-bottom:5px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+
+.content-row {
+    border:solid black;
+    display:flex;
+    justify-content: center;
+    gap:25px;
+}
+
+.item {
+    border: solid black;
+    height:100px;
+    width:100px;
+    border-radius: 5px;
+}
 .content1 {
     display:flex;
 }
