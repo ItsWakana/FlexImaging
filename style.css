@@ -1,0 +1,17 @@
+body {
+    display:flex;
+    flex-direction: column;
+}
+
+header {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links {
+    list-style: none;
+    display:flex;
+    gap:15px;
+}
+
