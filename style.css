@@ -14,7 +14,7 @@ header {
     display:flex;
     align-items: center;
     justify-content: center;
-    gap:200px;
+    gap:305px;
     margin-bottom:50px;
     color: white;
 }
@@ -107,7 +107,7 @@ header {
 .content1 {
     display:flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .get-quote {
@@ -118,7 +118,7 @@ header {
 }
 
 .main-img {
-    width:250px;
+    width:363px;
     padding-left:50px;
 }
 .action-container {
