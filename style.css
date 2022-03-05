@@ -133,13 +133,13 @@ header {
 }
 
 .sign-up-head {
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 900;
     color:white;
     margin-bottom: 3px;
 }
 
-.sign-up-subhead {
+.subhead {
     font-size: 13px;
     color:white;
 }
@@ -150,7 +150,7 @@ header {
 .button1 {
     width:100px;
     height:30px;
-    margin-top:8px;
+    margin-top:15px;
     border-radius:8px;
     box-sizing:border-box;
     color: white;
@@ -167,6 +167,13 @@ header {
     border-width: 2px;
     color: white;
     background-color: transparent;
+    font-weight: 800;
+}
 
-
+.footer-container {
+    display: flex;
+    background-color:rgb(40, 35, 46);
+    height: 70px;
+    justify-content: center;
+    align-items: center;
 }
