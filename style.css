@@ -132,12 +132,21 @@ header {
     box-sizing: border-box;
 }
 
-.time {
+.sign-up-head {
     font-size: 15px;
     font-weight: 900;
     color:white;
+    margin-bottom: 3px;
 }
 
+.sign-up-subhead {
+    font-size: 13px;
+    color:white;
+}
+
+.special-offers {
+    width:300px;
+}
 .button1 {
     width:100px;
     height:30px;
